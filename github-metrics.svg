@@ -1,3 +1,5 @@
+- name: Metrics embed
+  uses: lowlighter/metrics@v3.28
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="367" class="">
     <defs>
         <style/>
