@@ -24,8 +24,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   ## 🏆 Awards
-   
-    <p align="center">
 
     <img title="🔥 Get readme awards for your profile at github.com/ryo-ma/github-profile-trophy" alt="OMEGA's streak" src="https://github-profile-trophy.vercel.app/?username=OMEGA6404&column=-1&theme=darkhub&no-bg=true&no-frame=true"/>
   </a>
