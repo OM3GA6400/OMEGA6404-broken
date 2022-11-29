@@ -21,7 +21,7 @@
 
   <a href="https://git.io/streak-stats">
 
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OMEGA's streak" src="https://github-readme-streak-stats-2.herokuapp.com?user=OMEGA6404&hide_border=true&theme=github-dark-blue"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OMEGA's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=tokyonight)](https://git.io/streak-stats)"/>
   </a>
 
   ## 🏆 Awards
