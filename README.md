@@ -21,7 +21,7 @@
 
   <a href="https://git.io/streak-stats">
    
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   ## 🏆 Awards
    
