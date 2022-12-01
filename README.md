@@ -8,16 +8,8 @@
   <h3 align="center">Best 7th grader in Robious Middle School</h3>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&color=39FF14&center=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I'm+Omega!;I+mainly+use+JavaScript%2C+HTML+and+CSS.+%E2%80%8D%F0%9F%92%BB;I+have+two+years+of+Coding+experience.%E2%8F%B0;I+would+love+to+collab!%F0%9F%A4%9D;Please+follow+me+if+you+enjoy+my+work.%F0%9F%99%8F;Thanks+for+visiting+my+profile!%F0%9F%99%8C)](https://git.io/typing-svg)
-
-- 🔭 I’m currently working on OMEGA (My site)
-
-- 🌱 I’m currently learning **Java, PHP, CoffeeScript, typescript, C++, C# and python**
-
-- ⚡ Fun fact **I can solve a Rubix cube**
-
+ 
   ## 🔥 Streak stats
-
-  <a href="https://git.io/streak-stats">
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
