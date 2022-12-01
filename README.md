@@ -15,8 +15,7 @@
 
   ## 🏆 Awards
 
-    <img title="🔥 Get readme awards for your profile at github.com/ryo-ma/github-profile-trophy" alt="OMEGA's streak" src="https://github-profile-trophy.vercel.app/?username=OMEGA6404&column=-1&theme=darkhub&no-bg=true&no-frame=true"/>
-  </a>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
   ## 📊 Stats
   
