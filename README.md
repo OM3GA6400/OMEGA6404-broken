@@ -15,7 +15,7 @@
 
   ## 🏆 Awards
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
   ## 📊 Stats
   
